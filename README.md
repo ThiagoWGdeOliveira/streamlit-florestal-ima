@@ -1,4 +1,4 @@
-# 🌲 streamlit-florestal-ima
+# 🌲 Streamlit-Florestal-IMA
 
 📉 **Analise descritiva e visualização interativa do Incremento Médio Anual (IMA) com dados simulados**
 
