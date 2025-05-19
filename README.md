@@ -11,4 +11,6 @@ Este projeto utiliza a biblioteca Streamlit para criar uma aplicação web inter
 🔗 Acesse o app online:  
 👉 [app-florestal-ima.streamlit.app](https://app-florestal-ima-thiago-oliveira.streamlit.app/)
 
+![preview_app](https://github.com/ThiagoWGdeOliveira/streamlit-florestal-ima/blob/main/preview_app.png)
+
 ---
