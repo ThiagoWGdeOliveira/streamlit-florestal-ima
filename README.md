@@ -50,6 +50,6 @@ Os dados usados nesta aplicaçãoi foram simulados e não apresentam nenhuma bas
 
 # 👨‍💻 Autor:
 **Thiago Wendling Gonçalves de Oliveira**
-[linkedln](https://www.linkedin.com/in/thiago-w-g-de-oliveira/)
-[portfólio_streamlit](https://app-florestal-ima-thiago-oliveira.streamlit.app/)
+[linkedln](https://www.linkedin.com/in/thiago-w-g-de-oliveira/) |
+[🔗 Visualizar o App no Streamlit](https://app-florestal-ima-thiago-oliveira.streamlit.app/)
 
