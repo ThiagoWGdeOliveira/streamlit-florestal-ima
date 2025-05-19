@@ -1,3 +1,5 @@
+<img src="capa_repositorio.png" alt="Capa do Projeto" style="width:100%;"/>
+
 # 🌲 Streamlit-Florestal-IMA
 
 📉 **Analise descritiva e visualização interativa do Incremento Médio Anual (IMA) com dados simulados**
