@@ -1,4 +1,6 @@
-<img src="capa_repositorio.png" alt="Capa do Projeto" style="width:50%;"/>
+<p align="center">
+  <img src="capa_repositorio.png" alt="Capa do Projeto" style="width:50%;"/>
+</p>
 
 # 🌲 Streamlit-Florestal-IMA
 
