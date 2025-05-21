@@ -28,12 +28,12 @@ Este projeto utiliza a biblioteca Streamlit para criar uma aplicação web inter
 
 
 ## 💻 Tecnologias:
-- Python
-- Streamlit
-- Pandas
-- Matplolib / Seaborn / Ploty
-- Numpy
-- openpyxl
+- `python`
+- `streamlit`
+- `pandas`
+- `matplolib` / `seaborn` / `ploty`
+- `numpy`
+- `openpyxl`
 
 ---
 
