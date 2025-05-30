@@ -49,7 +49,7 @@ streamlit run app.py
 
 # 🌱 Dados:
 
-Os dados usados nesta aplicaçãoi foram simulados e não apresentam nenhuma base confidencial.
+Os dados usados nesta aplicação foram simulados e não apresentam nenhuma base confidencial.
 
 
 # 👨‍💻 Autor:
